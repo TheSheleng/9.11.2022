@@ -4,10 +4,11 @@
 //
 #define IDD_DIALOG                     101
 
-#define IDC_COMBO1                      1002
-#define IDC_LIST1                       1003
-#define IDC_COMBO2                      1004
-#define IDC_BUTTON2                     1005
+#define IDC_STATIC_OUT                  2001
+#define IDC_NUMBERS                     2002
+#define IDC_ACTION                      2003
+#define IDC_CALCULATE                   2004
+
 
 // Next default values for new objects
 // 
